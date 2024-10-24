@@ -1,0 +1,17 @@
+Se pueden generar diagramas UML a partir del código desarrollado.
+
+La herramienta recomendada es: umbrello. Está instalada en el laboratorio.
+Lo vamos a utilizar para generar los diagramas que hay que incluir en el README.
+
+Se puede guardar, en formato xmi. Basado en XML. Abierto a varias herramientas.
+Se puede generar una imagen (exportar los diagramas como imagen).
+
+Pasos a seguir:
+
+1. Abrir umbrello.
+2. Code->Active language->Java.
+3. Code->Import from directory. Seleccionar directorio src y Open. Se cargan todas las clases y se ven en el panel de la izquierda.
+4. Se arrastran los componentes (paquetes/clases que hemos creado nosostros) del modelo que hay a la izquierda al panel principal (diagrama).
+5. File->Save. Se genera el formato xmi (formato abierto entendible por otras herramientas).
+6. Export Diagrams as pictures.
+
