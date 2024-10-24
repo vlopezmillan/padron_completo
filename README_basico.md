@@ -1,4 +1,4 @@
-# APLICACIÓN PARA LA GESTIÓN DE UN PADRÓN DE HABITANTES
+# APLICACIÓN PARA LA GESTIÓN DE UN PADRÓN DE HABITANTES (MODIFICADO OTRA VEZ!!)
 Esta aplicación permite dar de alta habitantes y mostrarlos. Incluye también una ayuda. En los siguientes apartados se muestra cómo compilar el programa, cómo utilizarlo y cuál es su estructura interna.
 
 ## COMPILACIÓN DEL PROGRAMA
